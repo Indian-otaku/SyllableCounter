@@ -1,2 +1,2 @@
-nltk=3.8.1
-fastapi=0.110.1
+nltk==3.8.1
+fastapi==0.110.1
